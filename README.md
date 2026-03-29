@@ -147,7 +147,7 @@ This tool is **not an official City of Richmond service**. It does not determine
 ## Built By
 
 **Mia Wang - Lotus Love LLC** · Williamsburg, VA
-Richmond Civic Hackathon · March 27–29, 2026 · VCU Snead Hall
+ · Richmond Civic Hackathon · March 27–29, 2026 · VCU Snead Hall
 
 ---
 
